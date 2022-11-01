@@ -1,0 +1,2 @@
+# magalabs
+labs for masters
